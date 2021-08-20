@@ -1,0 +1,15 @@
+.listing {
+  padding: "0px 25px";
+}
+.root {
+  flex-grow: 1;
+}
+.demo {
+  background-color: #ccc;
+  padding: 0 10px;
+  margin: 2px 0;
+}
+.title {
+  margin: 10px;
+}
+/*# sourceMappingURL=TodoList.css.map */
